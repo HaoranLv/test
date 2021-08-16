@@ -1,0 +1,6 @@
+wdm-cxmc-460ml 186 282 265 548
+wdm-cxmc-460ml 253 285 326 546
+wdm-cxmc-460ml 313 286 380 545
+wdm-cxmc-460ml 371 283 442 545
+wdm-cxmc-1.3L 274 617 368 851
+wdm-cxmc-1.3L 362 617 451 843

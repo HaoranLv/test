@@ -1,0 +1,4 @@
+wdm-wjxjy-1L 705 624 970 1300
+wdm-wjxjy-1L 914 606 1164 1289
+wdm-wjxjy-1L 1132 553 1355 1203
+wdm-wjxjy-800ml 544 600 808 1306

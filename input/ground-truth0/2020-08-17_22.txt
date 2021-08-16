@@ -1,0 +1,10 @@
+wdm-wjxjy-2L 61 533 252 959
+wdm-wjxjy-2L 240 571 417 974
+wdm-wjxjy-2L 405 589 573 977
+wdm-wjxjy-1L 555 621 670 983
+wdm-wjxjy-1L 652 644 743 980
+wdm-wjxjy-1L 732 662 832 997
+wdm-btlcjy-500ml 817 706 917 1000
+wdm-btlcjy-500ml 902 712 982 1000
+wdm-cxhy-510g 973 718 1046 994
+wdm-cxhy-510g 1029 718 1102 1003

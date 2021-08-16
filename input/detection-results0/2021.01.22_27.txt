@@ -1,0 +1,16 @@
+wdm-wjxjy-1.8L 1 542 997 700 1280
+wdm-wjxjy-1.8L 1 416 992 560 1280
+wdm-wjxjy-1.8L 1 289 967 436 1270
+wdm-wjxjy-1.8L 1 182 950 326 1244
+wdm-wjxjy-1.8L 1 69 538 191 770
+wdm-wjxjy-1.8L 1 166 521 288 770
+wdm-wjxjy-1.8L 1 252 529 375 779
+wdm-wjxjy-1.8L 1 350 518 476 783
+wdm-wjxjy-1.8L 1 456 506 576 793
+wdm-wjxjy-1.8L 1 560 529 685 812
+wdm-wjxjy-1.8L 1 163 255 269 480
+wdm-wjxjy-1.8L 1 250 242 352 477
+wdm-wjxjy-1.8L 1 339 241 437 477
+wdm-wjxjy-1.8L 1 418 234 524 474
+wdm-wjxjy-1.8L 1 516 235 620 483
+wdm-wjxjy-1.8L 1 604 229 717 481

@@ -1,0 +1,14 @@
+wdm-btlcjy-500ml 165 245 223 452
+wdm-btlcjy-500ml 220 243 282 454
+wdm-btlcjy-500ml 279 243 337 462
+wdm-btlcjy-500ml 333 242 394 462
+wdm-btlcjy-500ml 390 242 450 459
+wdm-wjxjy-500ml 448 240 511 460
+wdm-wjxjy-500ml 506 240 565 462
+wdm-wjxjy-800ml 562 203 630 466
+wdm-wjxjy-800ml 630 197 706 462
+wdm-btlcjy-1L 231 488 300 714
+wdm-btlcjy-1L 294 492 360 720
+wdm-wjxjy-1L 356 492 425 720
+wdm-wjxjy-1L 420 491 490 722
+wdm-wjxjy-1L 483 489 553 723

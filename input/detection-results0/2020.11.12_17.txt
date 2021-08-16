@@ -1,0 +1,8 @@
+wdm-wjxjy-1.3L 1 462 71 553 319
+wdm-wjxjy-1.3L 1 500 432 602 659
+wdm-wjxjy-1.3L 1 582 433 686 661
+wdm-wjxjy-500ml 1 538 93 618 337
+wdm-wjxjy-500ml 1 600 89 676 337
+wdm-wjxjy-800ml 1 658 43 741 342
+wdm-wjxjy-800ml 1 725 39 813 351
+wdm-wjxjy-800ml 1 804 30 895 353

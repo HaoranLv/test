@@ -1,0 +1,14 @@
+wdm-wjxjy-1.8L 1 1 32 245 514
+wdm-wjxjy-1.8L 1 213 62 427 487
+wdm-wjxjy-1.8L 1 382 87 576 467
+wdm-wjxjy-1.3L 1 770 176 873 432
+wdm-wjxjy-1.3L 1 818 191 917 420
+wdm-wjxjy-1.3L 1 859 201 962 425
+wdm-wjxjy-800ml 1 908 193 994 421
+wdm-wjxjy-500ml 1 988 237 1057 416
+wdm-wjxjy-500ml 1 1012 248 1065 414
+wdm-wjxjy-500ml 1 1029 253 1085 407
+wdm-spjbsc-500ml 1 876 489 965 720
+wdm-spjbsc-500ml 1 903 484 986 720
+wdm-zplj-450ml 1 926 471 1016 720
+wdm-zplj-450ml 1 952 462 1030 701

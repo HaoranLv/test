@@ -1,0 +1,6 @@
+wdm-cxhy-510g 289 106 417 576
+wdm-wjxjy-500ml 394 120 500 538
+wdm-wjxjy-500ml 484 128 600 515
+wdm-wjxjy-800ml 570 69 693 500
+wdm-wjxjy-800ml 656 74 759 475
+wdm-wjxjy-1.3L 725 109 830 459

@@ -1,0 +1,6 @@
+cbl-lyxtmj-300g 381 166 482 260
+cbl-lyxtmj-300g 391 230 491 324
+cbl-lyxdbj-300g 477 162 577 257
+cbl-lyxdbj-300g 485 224 581 312
+wdm-cxmc-460ml 723 39 789 280
+wdm-cxmc-460ml 782 33 848 275

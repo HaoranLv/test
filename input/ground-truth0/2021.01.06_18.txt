@@ -1,0 +1,5 @@
+wdm-wjxjy-1L 950 750 1155 1368
+wdm-wjxjy-1L 1129 747 1329 1392
+wdm-wjxjy-1.8L 676 774 967 1439
+cbl-lyxdbj-300g 1 1159 208 1368
+cbl-lyxdbj-300g 50 980 305 1189

@@ -1,0 +1,6 @@
+cbl-lyxdbj-300g 501 757 620 870
+cbl-lyxdbj-300g 616 738 735 842
+cbl-lyxdbj-300g 735 713 846 815
+cbl-lyxdbj-500g 835 685 948 796
+cbl-lyxdbj-500g 920 677 1024 779
+cbl-lyxdbj-800g 1071 632 1184 736

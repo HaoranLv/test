@@ -1,0 +1,10 @@
+cbl-lyxtmj-800g 501 745 618 831
+cbl-lyxtmj-800g 506 820 610 908
+cbl-lyxtmj-800g 603 741 710 833
+cbl-lyxtmj-800g 595 814 712 908
+wdm-wjxjy-500ml 389 431 453 635
+wdm-wjxjy-500ml 437 429 508 635
+wdm-wjxjy-500ml 493 429 572 633
+wdm-wjxjy-800ml 603 383 687 627
+wdm-wjxjy-800ml 672 379 747 627
+wdm-wjxjy-800ml 733 377 804 625

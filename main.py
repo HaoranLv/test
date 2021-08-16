@@ -171,7 +171,7 @@ def voc_ap(rec, prec):
     # matlab indexes start in 1 but python in 0, so I have to do:
     #     range(start=(len(mpre) - 2), end=0, step=-1)
     # also the python function range excludes the end, resulting in:
-    #     range(start=(len(mpre) - 2), end=-1, step=-1)
+    #     range(start=(len(mpre) - 2), end=-1, step=-1)1110
     for i in range(len(mpre)-2, -1, -1):
         mpre[i] = max(mpre[i], mpre[i+1])
     """
@@ -426,8 +426,8 @@ gt_classes = list(gt_counter_per_class.keys())
 # let's sort the classes alphabetically
 gt_classes = sorted(gt_classes)
 n_classes = len(gt_classes)
-#print(gt_classes)
-#print(gt_counter_per_class)
+print('gt_classes',gt_classes)
+print('gt_classes',gt_counter_per_class)
 
 """
  Check format of the flag --set-class-iou (if used)
@@ -847,7 +847,7 @@ if draw_plot:
         )
 
 """
- Write number of detected objects per class to output.txt
+ Write number of detected objects per class to output.txtground-truth
 """
 with open(output_files_path + "/output.txt", 'a') as output_file:
     output_file.write("\n# Number of detected objects per class\n")

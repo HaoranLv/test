@@ -1,0 +1,14 @@
+cbl-lyxdbj-800g 181 517 478 756
+cbl-lyxdbj-800g 244 702 493 907
+cbl-lyxdbj-800g 395 492 639 705
+cbl-lyxdbj-800g 454 668 634 841
+cbl-lyxdbj-300g 573 431 737 570
+cbl-lyxdbj-300g 612 551 732 683
+cbl-lyxdbj-300g 610 658 732 790
+cbl-lyxdbj-300g 712 427 824 558
+cbl-lyxdbj-300g 717 539 820 656
+cbl-lyxdbj-300g 707 639 810 751
+wdm-wjxjy-800ml 771 361 861 727
+wdm-wjxjy-800ml 842 356 917 705
+wdm-wjxjy-800ml 898 353 966 690
+wdm-wjxjy-1L 939 366 1015 670

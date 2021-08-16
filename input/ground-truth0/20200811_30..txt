@@ -1,0 +1,5 @@
+lyx-hsjy-1L 336 789 421 1024
+lyx-hsjy-1L 403 795 487 1023
+lyx-tjjy-1L 474 799 542 1024
+wdm-spjbsc-1.3L 815 561 887 726
+wdm-spjbsc-1.3L 877 567 948 729

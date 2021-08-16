@@ -1,0 +1,17 @@
+wdm-wjxjy-1.8L 437 253 567 596
+wdm-wjxjy-1.8L 564 258 696 600
+wdm-wjxjy-1.8L 690 260 820 598
+wdm-wjxjy-1.8L 815 260 943 598
+cbl-hdj-2kg 1118 338 1254 592
+cbl-hdj-2kg 1247 336 1386 590
+wdm-btlcjy-1L 439 679 533 990
+wdm-btlcjy-1L 535 679 624 983
+wdm-wjxjy-1L 624 679 715 987
+wdm-wjxjy-1L 709 679 801 981
+wdm-wjxjy-1L 798 679 890 985
+wdm-wjxjy-1L 884 670 981 979
+wdm-wjxjy-1L 977 677 1069 983
+wdm-wjxjy-1L 1062 679 1158 979
+wdm-wjxjy-1L 1152 677 1247 979
+wdm-wjxjy-1L 1235 675 1337 981
+wdm-wjxjy-1L 1326 673 1426 979

@@ -1,0 +1,5 @@
+wdm-btlcjy-1L 1 508 545 728 1224
+wdm-btlcjy-1L 1 701 531 922 1214
+wdm-btlcjy-1L 1 904 525 1135 1210
+wdm-btlcjy-1L 1 1112 504 1356 1214
+wdm-btlcjy-1L 1 1339 493 1576 1214

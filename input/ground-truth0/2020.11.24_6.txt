@@ -1,0 +1,8 @@
+wdm-wjxjy-1.3L 266 400 489 785
+wdm-wjxjy-1.3L 481 422 679 831
+wdm-wjxjy-1.3L 626 404 829 827
+wdm-wjxjy-1.3L 787 381 985 818
+wdm-wjxjy-1L 1031 987 1168 1349
+wdm-wjxjy-1L 1137 983 1276 1352
+wdm-btlcjy-1L 1249 972 1389 1354
+wdm-btlcjy-1L 1360 970 1468 1352

@@ -1,0 +1,12 @@
+wdm-zphy-510g 222 285 306 594
+wdm-wjxjy-800ml 280 616 383 917
+wdm-wjxjy-800ml 371 609 463 896
+wdm-wjxjy-800ml 123 285 230 600
+wdm-wjxjy-800ml 17 277 131 599
+lyx-tjyzjy-500ml 419 299 496 574
+lyx-tjjy-500ml 482 299 559 568
+wdm-btlcjy-500ml 553 320 628 572
+lyx-tjjy-1L 528 611 608 866
+wdm-btlcjy-1L 660 599 734 845
+wdm-wjxjy-1.3L 257 946 362 1206
+wdm-wjxjy-1.3L 345 922 450 1171

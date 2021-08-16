@@ -1,0 +1,8 @@
+wdm-wjxjy-800ml 1 91 315 320 921
+wdm-wjxjy-800ml 1 253 300 458 900
+wdm-wjxjy-800ml 1 411 330 594 892
+wdm-wjxjy-1L 1 558 368 758 877
+wdm-wjxjy-1L 1 732 392 903 865
+wdm-wjxjy-1L 1 861 389 1023 865
+wdm-wjxjy-1.8L 1 970 389 1153 856
+cbl-hdj-900g 1 823 1324 970 1621

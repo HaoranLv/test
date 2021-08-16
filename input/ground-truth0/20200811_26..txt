@@ -1,0 +1,8 @@
+wdm-wjxjy-500ml 300 422 360 617
+wdm-wjxjy-500ml 348 432 405 609
+lyx-tjjy-500ml 397 425 451 617
+lyx-tjjy-500ml 448 437 503 619
+lyx-hsjy-500ml 388 646 436 829
+lyx-hsjy-500ml 430 648 486 826
+wdm-btlcjy-500ml 290 648 350 832
+wdm-btlcjy-500ml 340 649 396 836

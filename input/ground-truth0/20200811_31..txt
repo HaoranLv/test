@@ -1,0 +1,14 @@
+cbl-hdj-2kg 246 503 353 688
+cbl-hdj-2kg 345 500 440 686
+cbl-hdj-2kg 433 503 533 685
+cbl-hdj-2kg 525 500 619 682
+cbl-hdj-2kg 616 496 720 677
+wdm-wjxjy-800ml 174 732 288 996
+wdm-wjxjy-800ml 262 716 353 979
+wdm-wjxjy-800ml 333 726 431 999
+wdm-wjxjy-800ml 420 722 513 1000
+wdm-wjxjy-800ml 505 717 590 996
+wdm-wjxjy-800ml 585 722 673 991
+wdm-wjxjy-800ml 671 726 760 997
+wdm-wjxjy-800ml 754 725 848 997
+wdm-wjxjy-800ml 833 728 936 1003

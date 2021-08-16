@@ -1,0 +1,8 @@
+cbl-lyxtmj-300g 88 748 223 857
+cbl-lyxtmj-300g 87 851 229 990
+wdm-wjxjy-500ml 284 347 373 650
+wdm-wjxjy-500ml 371 351 459 645
+wdm-wjxjy-500ml 449 345 543 652
+wdm-wjxjy-1.8L 60 358 189 647
+wdm-wjxjy-1.3L 179 389 298 650
+wdm-spjbsc-500ml 537 334 636 650

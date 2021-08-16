@@ -1,0 +1,11 @@
+wdm-qxmc-460ml 1 875 1 994 383
+wdm-qxmc-460ml 1 980 1 1092 385
+wdm-wjxjy-800ml 1 411 541 560 949
+wdm-wjxjy-800ml 1 541 549 675 941
+wdm-wjxjy-800ml 1 660 546 782 951
+wdm-wjxjy-800ml 1 767 551 887 936
+wdm-wjxjy-1L 1 877 568 992 934
+wdm-wjxjy-1L 1 977 566 1099 934
+wdm-wjxjy-1L 1 1082 556 1209 934
+wdm-wjxjy-1.3L 1 1177 578 1331 922
+wdm-wjxjy-1.3L 1 1306 573 1492 929

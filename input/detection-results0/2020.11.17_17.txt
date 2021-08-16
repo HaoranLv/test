@@ -1,0 +1,7 @@
+wdm-wjxjy-500ml 1 586 206 667 456
+wdm-wjxjy-500ml 1 653 201 730 437
+wdm-wjxjy-500ml 1 720 193 795 439
+wdm-wjxjy-500ml 1 786 191 865 430
+wdm-wjxjy-800ml 1 853 139 947 437
+wdm-wjxjy-800ml 1 927 133 1020 426
+cbl-lyxdbj-300g 1 161 360 277 467

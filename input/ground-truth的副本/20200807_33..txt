@@ -1,0 +1,9 @@
+lyx-hsjy-500ml 170 179 296 654
+lyx-hsjy-500ml 283 191 417 659
+lyx-tjjy-500ml 430 197 559 660
+lyx-tjjy-500ml 550 208 686 663
+lyx-nmzyjy-380ml 253 716 360 1032
+lyx-nmzyjy-380ml 354 719 446 1043
+lyx-tjyzjy-500ml 442 722 556 1049
+lyx-tjyzjy-500ml 563 731 676 1045
+lyx-tjyzjy-500ml 676 731 786 1049
